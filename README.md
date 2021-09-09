@@ -1,6 +1,7 @@
 ### **👋 Hi, I’m Xudong, a PhD candidate at McGill University, Canada**
 
 - 👀 I’m interested in spatiotempal anomaly detection, imputation and prediction. 
+- 🌱 I‘m currently learning low-rank models
 
 
 <!---
